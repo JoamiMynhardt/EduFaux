@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'edufaux-icon';
+  src:  url('fonts/edufaux-icon.eot?6gpu4f');
+  src:  url('fonts/edufaux-icon.eot?6gpu4f#iefix') format('embedded-opentype'),
+    url('fonts/edufaux-icon.ttf?6gpu4f') format('truetype'),
+    url('fonts/edufaux-icon.woff?6gpu4f') format('woff'),
+    url('fonts/edufaux-icon.svg?6gpu4f#edufaux-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="edufaux-icon-"], [class*=" edufaux-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'edufaux-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.edufaux-icon-plus-symbol:before {
+  content: "\e915";
+}
+.edufaux-icon-contact:before {
+  content: "\e912";
+}
+.edufaux-icon-placeholder:before {
+  content: "\e913";
+}
+.edufaux-icon-manager:before {
+  content: "\e914";
+}
+.edufaux-icon-web-programming:before {
+  content: "\e900";
+}
+.edufaux-icon-training:before {
+  content: "\e901";
+}
+.edufaux-icon-targeting:before {
+  content: "\e902";
+}
+.edufaux-icon-strategy:before {
+  content: "\e903";
+}
+.edufaux-icon-professor:before {
+  content: "\e904";
+}
+.edufaux-icon-music-player:before {
+  content: "\e905";
+}
+.edufaux-icon-magnifying-glass:before {
+  content: "\e906";
+}
+.edufaux-icon-left-arrow:before {
+  content: "\e907";
+}
+.edufaux-icon-right-arrow:before {
+  content: "\e90f";
+}
+.edufaux-icon-top-arrow:before {
+  content: "\e910";
+}
+.edufaux-icon-bottom-arrow:before {
+  content: "\e911";
+}
+.edufaux-icon-knowledge:before {
+  content: "\e908";
+}
+.edufaux-icon-human-resources:before {
+  content: "\e909";
+}
+.edufaux-icon-health:before {
+  content: "\e90a";
+}
+.edufaux-icon-email:before {
+  content: "\e90b";
+}
+.edufaux-icon-desktop:before {
+  content: "\e90c";
+}
+.edufaux-icon-camera:before {
+  content: "\e90d";
+}
+.edufaux-icon-menu:before {
+  content: "\e90e";
+}
+.edufaux-icon-black-graduation-cap-tool-of-university-student-for-head:before {
+  content: "\e916";
+}
